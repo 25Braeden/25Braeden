@@ -11,8 +11,8 @@
 <br>
 <h3 align="Center">⭐️ These are some of my favorite projects.</h3>
 <a href="https://github.com/25Braeden/AdventOfCode2023">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=25Braeden&repo=AdventOfCode2023&theme=shadow_blue" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=25Braeden&repo=AdventOfCode2023&theme=shadow_blue" />
 </a>
 <a href="https://gist.github.com/25Braeden/87cf0fef13b22c1868c4946586b71d43">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=87cf0fef13b22c1868c4946586b71d43" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=87cf0fef13b22c1868c4946586b71d43" />
 </a>
