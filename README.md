@@ -1,6 +1,6 @@
 <h3 align="Center">👋 Hi, I’m @25Braeden<h3>
 <p align="Center">I'm currently working on<br>
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&fill=ff2800)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java&fill=ff2800)]
   
   <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
